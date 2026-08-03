@@ -1,0 +1,28 @@
+# Smart Waste Management System using IoT
+
+## Overview
+This project is an IoT-based Smart Waste Management System developed to monitor garbage bin levels using sensors. The system helps improve waste collection efficiency and supports a cleaner environment.
+
+## Features
+- Real-time garbage level monitoring
+- Smart waste collection
+- Low-cost and easy to use
+- Environment-friendly solution
+
+## Technologies Used
+- Arduino UNO
+- Ultrasonic Sensor
+- Embedded C
+- IoT
+
+## Future Improvements
+- Mobile App Integration
+- GPS Tracking
+- Cloud Data Storage
+
+## Author
+**Sumit Bijlwan**
+
+B.Tech - Electronics & Communication Engineering
+
+Guru Nanak Dev Engineering College, Ludhiana
