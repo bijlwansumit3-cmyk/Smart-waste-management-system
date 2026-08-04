@@ -1,28 +1,58 @@
-# Smart Waste Management System using IoT
+# 🗑️ IoT Based Smart Waste Management System
 
-## Overview
-This project is an IoT-based Smart Waste Management System developed to monitor garbage bin levels using sensors. The system helps improve waste collection efficiency and supports a cleaner environment.
+## 📌 Overview
+The Smart Waste Management System is an IoT-based project designed to monitor garbage levels in waste bins using an ESP32 microcontroller and an ultrasonic sensor. The system sends real-time data to the Blynk IoT platform, helping improve waste collection efficiency and keeping the environment clean.
 
-## Features
+---
+
+## 🚀 Features
+
 - Real-time garbage level monitoring
-- Smart waste collection
-- Low-cost and easy to use
-- Environment-friendly solution
+- ESP32 Wi-Fi connectivity
+- Blynk IoT Dashboard
+- Bin Full Notification
+- Low-cost and energy-efficient
+- Easy to install and maintain
 
-## Technologies Used
-- Arduino UNO
-- Ultrasonic Sensor
+---
+
+## 🛠 Hardware Components
+
+- ESP32 Development Board
+- HC-SR04 Ultrasonic Sensor
+- Buzzer
+- Servo Motor (Optional)
+- 16x2 LCD with I2C (Optional)
+- Jumper Wires
+- Breadboard
+
+---
+
+## 💻 Software Used
+
+- Arduino IDE
+- Blynk IoT
 - Embedded C
-- IoT
+- GitHub
 
-## Future Improvements
-- Mobile App Integration
-- GPS Tracking
-- Cloud Data Storage
+---
 
-## Author
+## 📈 Future Scope
+
+- AI-based waste prediction
+- GPS tracking for garbage trucks
+- Mobile application
+- Cloud database integration
+
+---
+
+## 👨‍💻 Author
+
 **Sumit Bijlwan**
 
-B.Tech - Electronics & Communication Engineering
+B.Tech Electronics & Communication Engineering
 
 Guru Nanak Dev Engineering College, Ludhiana
+
+GitHub:
+https://github.com/bijlwansumit3-cmyk
